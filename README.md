@@ -1,2 +1,5 @@
 # WS-Chat-Application
-A simple chat application using flask and Flask-SocketIO
+A simple real-time chat application using flask and Flask-SocketIO
+
+
+![chat img](./img/chat.JPG)
